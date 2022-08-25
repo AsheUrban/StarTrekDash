@@ -40,7 +40,7 @@ _This is a Star Trek Themed Dashboard. Povides weather data for Portland, OR, gr
 <li>Copy the git repository url:https://github.com/carolinecerussi/StarTrekDash.git
 <li>Open a shell program and navigate to your desktop.
 <li>Clone the repository for this project using the "git clone" command and including the copied URL.
-<li>While still in the shell program, navigate to the root directory of the newly created file named "StarTrek_Dashboard".
+<li>While still in the shell program, navigate to the root directory of the newly created file named "StarTrekDash".
 <li>From the root directory, navigate to the "StarTrrekDash" directory.
 <br>
 </details>
@@ -74,7 +74,7 @@ Navigate to:
    └── <strong>StarTrekDash</strong></pre>
 
 Run `$ dotnet restore` in the console.<br>
-Run `$ dotnet database update` in the console.<br>
+Run `$ dotnet ef database update` in the console.<br>
 Run `$ dotnet run` in the console
 
 </details>
