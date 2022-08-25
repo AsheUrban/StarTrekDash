@@ -57,7 +57,6 @@ _This is a Star Trek Themed Dashboard. Provides weather data for San Francisco, 
    ```
 
 <li>Navigate to the root directory – StarTrekDash.
-<li>
 <br>
 </details>
 
